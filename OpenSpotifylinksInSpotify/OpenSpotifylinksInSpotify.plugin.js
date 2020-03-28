@@ -2,7 +2,7 @@
 const { shell } = require('electron');
 class spotifyLinks {
     getAuthor() {
-        return "Strencher";
+        return "Akeno";
     }
     getName() {
         return "Open SpotifyLinks In Spotify";
